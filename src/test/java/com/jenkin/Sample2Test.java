@@ -10,4 +10,10 @@ public class Sample2Test {
 		System.out.println("spot spotters done");
 	}
 
+	@Test
+	public void t2()
+	{
+		System.out.println("spot spotters done");
+	}
+
 }
